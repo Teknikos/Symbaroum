@@ -1,6 +1,7 @@
 # Symbaroum - Choose your own adventure
 
 This is a simple CYOA game.
+Click here to test it out: https://teknikos.github.io/Symbaroum/
 
 # What I Learned
 
